@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ad6e199442a4f2603544680bf88208d5f5cb8551",
+    "author": "Emilio M. Bruna <embruna@ufl.edu>",
+    "time": "2020-03-03 15:51:53",
+    "files": 1,
+    "merge": false,
+    "message": "update of codemeta\n"
+  },
+  "remote": "https://github.com/ropensci/refsplitr",
+  "pkg": "refsplitr"
+}
