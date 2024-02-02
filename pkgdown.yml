@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  refsplitr: refsplitr.html
+last_built: 2024-02-02T07:42Z
+urls:
+  reference: https://docs.ropensci.org/refsplitr/reference
+  article: https://docs.ropensci.org/refsplitr/articles
+

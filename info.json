@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "38c01e609cbdf1ad28bc7c6a89de1e433892eb10",
+    "author": "embruna <embruna@ufl.edu>",
+    "time": "2022-02-07 17:25:38",
+    "files": 4,
+    "merge": true,
+    "message": "fixes of conflicts/merges\n\nMerge branch 'master' of https://github.com/embruna/refsplitr\n\n# Conflicts:\n#\t.Rbuildignore\n#\t.gitignore\n"
+  },
+  "repo": "https://github.com/ropensci/refsplitr",
+  "pkg": "refsplitr"
+}
