@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "975a2c0521ee505a7d041fadac8ff5ed9755c3a1",
+    "author": "Emilio M. Bruna <embruna@ufl.edu>",
+    "time": "2026-07-17T02:16:39Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #126 from ropensci/50-v20-function-to-process-scopus-download-in-csv-format\n\nnew algo authors_match()=new expected result in tests"
+  },
+  "repo": "https://github.com/ropensci/refsplitr",
+  "pkg": "refsplitr",
+  "time": "2026-08-16T02:50:45Z"
+}
